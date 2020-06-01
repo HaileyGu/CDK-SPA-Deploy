@@ -27,7 +27,6 @@ Route 53을 통해 도메인을 구매했고 이미 hosted zone이 있는 경우
 
 ### 사용자 정의 도메인 및 SSL 인증서
 
-You can also pass the ARN for an SSL certification and your alias routes to cloudfront
 SSL 인증을위한 ARN과 alias routes를 Cloudfront로 전달할 수도 있습니다.
 
 ![cdk-spa-deploy alias](https://raw.githubusercontent.com/nideveloper/cdk-spa-deploy/master/img/cdkdeploy-alias.png)
